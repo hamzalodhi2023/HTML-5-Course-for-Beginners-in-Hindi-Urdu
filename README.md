@@ -69,7 +69,7 @@ This course is available on my YouTube channel **[Skill Edge](https://www.youtub
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 
 We welcome contributions! If you'd like to improve this repository or the course, please fork the repository and submit a pull request.
 
